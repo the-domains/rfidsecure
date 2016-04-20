@@ -1,0 +1,14 @@
+layout_spectrum: 0.8803042
+typography_spectrum: 0.5750605
+color:
+  saturation: 0.964709
+  lightness: 0.04176549
+  brandStrength: 0.9760144
+  rhythmicContrast: 0.5647666
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Rfidsecure
