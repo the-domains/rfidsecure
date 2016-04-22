@@ -1,14 +1,26 @@
-layout_spectrum: 0.8803042
-typography_spectrum: 0.5750605
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.964709
-  lightness: 0.04176549
+  saturation: 0.5215054
   brandStrength: 0.9760144
-  rhythmicContrast: 0.5647666
+  lightness: 0
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  rhythmicContrast: 0.5647666
+typography_spectrum: 0.5878136
+layout_spectrum: 0.8803042
 name: Rfidsecure
