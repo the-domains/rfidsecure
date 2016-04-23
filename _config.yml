@@ -1,3 +1,7 @@
+name: Rfidsecure
+favicon: null
+layout_spectrum: 0.8803042
+typography_spectrum: 0.5878136
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: RFID Secure UK Limited
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5215054
-  brandStrength: 0.9760144
-  lightness: 0
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  brandStrength: 0.9760144
+  lightness: 0
+  saturation: 0.5215054
   rhythmicContrast: 0.5647666
-typography_spectrum: 0.5878136
-layout_spectrum: 0.8803042
-name: Rfidsecure
+purpose: []
